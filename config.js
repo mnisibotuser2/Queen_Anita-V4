@@ -1,9 +1,9 @@
 global.owner = [
-  "2347043759577",
-  ""
+  "255656957673",
+  "255754278170"
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
+global.ownername = MNISI3694"
 global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
 global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
 global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
@@ -12,12 +12,12 @@ global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;   // Set to true to automatically read statuses
 global.AUTOSTATUS_REACT = false;   // Set to true to automatically like statuses
-global.autoLikeEmoji = "💚";    // Default emoji for liking statuses
+global.autoLikeEmoji = "🦜";    // Default emoji for liking statuses
 
 global.LEVELUP = false;
 
 
-global.ANTIVIEWONCE = false;
+global.ANTIVIEWONCE = true;
 
 global.roles = {
     1: "Novice",
@@ -37,26 +37,26 @@ global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.ne
 global.public = true
 
 
-global.ANTIDELETE = false;  
+global.ANTIDELETE = true;  
 
-global.unavailable = true;     
+global.unavailable = false;     
 //to show your real presence  
-global.available = false;   
+global.available = true;   
 // to show always online  
 global.autoreadmessages = false;   
 ///To always read messages
 global.chatbot = false;
-global.autoreact = false;
+global.autoreact = true;
 
 global.WELCOME = false;
 
-global.prefix = '.';
+global.prefix = '*';
 
 global.autobio = false;
 
-global.ANTICALL = false;
+global.ANTICALL = true;
 
-global.antilink = false;
+global.antilink = true;
 
 global.antilinkkick = false;
 
